@@ -1,0 +1,31 @@
+
+
+.menu {
+    color: black;
+
+}
+
+#page-title {
+        font-family: "Lucida Console", monaco, monospace;
+
+}
+
+body{
+    background: url("./images/bali-jungle.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.paragraph {
+    background-color: black;
+    color: white;
+    padding : 10px;
+border-radius: 10px;
+}
+
+.paragraph {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
